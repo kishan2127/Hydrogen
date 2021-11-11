@@ -4,6 +4,9 @@
   "version": "0.6.4",
   "license": "MIT",
   "private": true,
+"engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "dev": "vite",
     "lint": "npm-run-all lint:*",
