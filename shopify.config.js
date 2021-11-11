@@ -1,4 +1,3 @@
-
 export default {
   locale: 'en-us',
   storeDomain: 'hydrogen-preview.myshopify.com',
